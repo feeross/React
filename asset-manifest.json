@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feeross/React.git/static/css/main.b09581aa.css",
+    "main.js": "/feeross/React.git/static/js/main.a95f2322.js",
+    "index.html": "/feeross/React.git/index.html",
+    "main.b09581aa.css.map": "/feeross/React.git/static/css/main.b09581aa.css.map",
+    "main.a95f2322.js.map": "/feeross/React.git/static/js/main.a95f2322.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09581aa.css",
+    "static/js/main.a95f2322.js"
+  ]
+}
